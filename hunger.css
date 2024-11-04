@@ -1,0 +1,57 @@
+#div1{
+    display: flex;
+    border: 2px rgba(7, 228, 191, 0);
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(233,178,201,1) 0%, rgba(178,214,182,1) 0%, rgba(231,179,200,0.4906337535014006) 0%, rgba(148,233,172,1) 100%);
+    flex-direction: row;
+    justify-content: flex-end;
+    column-gap: 130px;
+    flex-wrap: wrap;
+    padding: 60px;
+    height: 30px;
+    
+    font-size:large;
+
+    
+}
+a :hover{
+   font-family: cursive;
+   background-color: rgb(10, 59, 59);
+   
+}
+
+a{
+    text-decoration: none;
+}
+fieldset{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,0.7091211484593838) 100%);
+    border: 2px solid rgb(122, 211, 211);
+}
+
+pre{
+    box-sizing: border-box;
+    
+    width: 25%;
+    height: 450px;
+    padding: 40px;
+    margin: 10px;
+    font-size: 50px;
+   
+}
+.d1{
+   
+    margin-left:50%;
+    margin-top: -650px;
+}
+
+
+.d2{
+    margin-right: 50%;
+}
+.d3{
+    margin-left:60%;
+    margin-top: -359px;
+   
+}
+
